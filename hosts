@@ -1,4 +1,7 @@
 # Custom host records are listed here.
+0.0.0.0 roaming.officeapps.live.com
+0.0.0.0 0.client-channel.google.com
+
 # START - ALLOWING WINDOWS UPDATES
 0.0.0.0 fe3.delivery.mp.microsoft.com
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
