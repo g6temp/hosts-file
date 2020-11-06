@@ -1,4 +1,32 @@
 # Custom host records are listed here.
+0.0.0.0 outlook.office365.com
+0.0.0.0 teledyne.com
+0.0.0.0 autodiscover.teledyne.com
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 client-channel.google.com
+0.0.0.0 51vod-adaptive.akamaized.net
+0.0.0.0 184vod-adaptive.akamaized.net
+0.0.0.0 200vod-adaptive.akamaized.net
+0.0.0.0 spoprod-a.akamaihd.net
+0.0.0.0 autodiscover-s.outlook.com
+0.0.0.0 api.diagnostics.office.com
+0.0.0.0 agave.myanalytics.cdn.office.net
+0.0.0.0 fe3cr.delivery.mp.microsoft.com
+0.0.0.0 msedge.api.cdp.microsoft.com
+0.0.0.0 iamtelemetrycollector.microsoft.com
+0.0.0.0 b.config.skype.com
+0.0.0.0 swx.cdn.skype.com
+0.0.0.0 config.edge.skype.com
+0.0.0.0 s-ring.msedge.net
+0.0.0.0 webdir.online.lync.com
+0.0.0.0 arc.msn.com
+0.0.0.0 graph.windows.net
+0.0.0.0 ecs.office.com
+0.0.0.0 ocws.officeapps.live.com
+0.0.0.0 support.content.office.net
+0.0.0.0 odc.officeapps.live.com
+0.0.0.0 roaming.officeapps.live.com
+
 0.0.0.0 checkappexec.microsoft.com
 0.0.0.0 client-channel.google.com
 0.0.0.0 51vod-adaptive.akamaized.net
